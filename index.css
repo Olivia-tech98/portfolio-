@@ -1,0 +1,113 @@
+h1 {
+    color: white;
+    position: relative;
+    top: -550px;
+    right: -440px;
+    font-size: 65px;
+    font-family: georgia;
+}
+
+#img {
+    width: 1450px;
+    height: 720px;
+}
+
+h2 {
+    color: white;
+    position: relative;
+    top: -530px;
+    right: -540px;
+    font-size: 20px;
+    font-family: georgia;
+}
+
+h3 {
+    color: black;
+    font-size: 40px;
+    position: relative;
+    right: -550px;
+    top: -70px;
+    font-family: georgia;
+}
+
+p {
+    color: black;
+    position: relative;
+    right: -20px;
+    top: -50px;
+    font-family: georgia;
+}
+
+#h2 {
+    color: black;
+    position: center;
+    top: -10px;
+    right: -570px;
+}
+
+.h3 {
+    color: black;
+    position: relative;
+    top: 60px;
+    font-size: xx-large;
+    
+}
+
+#h3 {
+    color: black;
+    position: relative;
+    top: -1040px;
+    right: -1120px;
+    color: lightpink;
+    font-family: serif;
+}
+
+.img {
+    position: relative;
+    right: -100px;
+    width: 200px;
+    bottom: -100px;
+}
+
+.img2 {
+    position: relative;
+    right: -150px;
+    width: 250px;
+    bottom: -100px;
+
+}
+
+.img3 {
+    position: relative;
+    width: 200px;
+    right: -200px;
+    top: 90px;
+}
+
+.img4 {
+    width: 220px;
+    position: relative;
+    right: -250px;
+    bottom: -90px;
+
+}
+
+body {
+    background-color: #f7f2f7;
+}
+
+#contact {
+    margin-top: 300px;
+}
+
+#footer {
+    position: relative;
+    bottom: -50px;
+    right: -550px;
+}
+
+#resume {
+    position: relative;
+    top: 150px;
+    right: -480px;
+}
